@@ -5,7 +5,8 @@
 【2019.6.7】
 
 # 题目布置
-## 2019.6.7-2019.6.8  
+## 2019.6.9-2019.6.15 
+### Range in leetcode 145 Top Interview Questions
 easy:
 1. https://leetcode.com/problems/two-sum/
 2. https://leetcode.com/problems/power-of-three/ 
@@ -13,8 +14,13 @@ easy:
 medium:
 1. https://leetcode.com/problems/add-two-numbers/
 2. https://leetcode.com/problems/3sum/  
+3. https://leetcode.com/problems/jump-game/
+4. https://leetcode.com/problems/word-break/
+5. https://leetcode.com/problems/sort-list/
 
 hard:
 1. https://leetcode.com/problems/median-of-two-sorted-arrays/
+2. https://leetcode.com/problems/first-missing-positive/
+3. https://leetcode.com/problems/trapping-rain-water/
 
 
